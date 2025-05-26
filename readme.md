@@ -1,4 +1,4 @@
-📖 Documentação - Calculadora de Custos para Marketplace
+📖 Calculadora de Custos para Marketplace
 📌 Descrição
 Este projeto é uma aplicação web desenvolvida em Django para calcular custos de vendas em marketplaces, levando em consideração preço de custo, taxas e impostos, e fornecendo lucro e percentual de lucro.
 
