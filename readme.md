@@ -7,6 +7,7 @@ Este projeto é uma aplicação web desenvolvida em Django para calcular custos 
 ✅ Pré-requisitos
 
 Antes de rodar o projeto, certifique-se de que o ambiente está configurado corretamente.
+
 🔹 Softwares e dependências necessárias
 - Python (versão 3.8 ou superior)
 - Django (última versão estável)
