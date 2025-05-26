@@ -69,40 +69,40 @@ http://127.0.0.1:8000/
 
 🔗 Estrutura do Projeto
 A organização dos arquivos segue a estrutura padrão do Django:
-
 marketplace_calculator/  # Diretório do projeto
 
-│── calculator/           # Aplicativo da calculadora
+|- calculator/           # Aplicativo da calculadora
 
-│     │── migrations/       # Arquivos de migração do banco de dados
+|-----| migrations/       # Arquivos de migração do banco de dados
 
-│     │── templates/        # Templates HTML
+|-----| templates/        # Templates HTML
 
-│     │     ├── calculator/
+|----------| calculator/
 
-│     │     │     ├── calculate.html  # Formulário de entrada de dados
+│---------------| calculate.html  # Formulário de entrada de dados
 
-│     │     │     ├── result.html     # Exibição dos cálculos
+│---------------| result.html     # Exibição dos cálculos
 
-│     │── models.py         # Definição do modelo de dados
+│-----| models.py         # Definição do modelo de dados
 
-│     │── views.py          # Processamento das regras de negócio
+│-----| views.py          # Processamento das regras de negócio
 
-│     │── urls.py           # Definição das rotas
-
-│
-
-│── marketplace_calculator/  # Diretório do projeto Django
-
-│     │── settings.py       # Configurações globais do projeto
-
-│     │── urls.py           # Rotas principais do projeto
+│-----| urls.py           # Definição das rotas
 
 │
 
-│── db.sqlite3            # Banco de dados SQLite
+│- marketplace_calculator/  # Diretório do projeto Django
 
-│── manage.py             # Script de gerenciamento do Django
+│-----| settings.py       # Configurações globais do projeto
+
+│-----| urls.py           # Rotas principais do projeto
+
+│
+
+│- db.sqlite3            # Banco de dados SQLite
+
+│- manage.py             # Script de gerenciamento do Django
+
 
 
 
