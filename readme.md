@@ -20,8 +20,8 @@ Antes de rodar o projeto, certifique-se de que o ambiente está configurado corr
 🏗 Passo a Passo - Instalação e Configuração
 
 1️⃣ Clonar o Repositório
-Caso o projeto esteja em um repositório Git, execute:
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/estevaoIA/SAAS.git
+Pasta do projeto
 cd marketplace_calculator
 
 
@@ -41,13 +41,8 @@ source venv/bin/activate
 
 
 3️⃣ Instalar Dependências
-Caso haja um arquivo requirements.txt, instale as dependências com:
+Instale as dependências com:
 pip install -r requirements.txt
-
-
-Se não houver, instale Django manualmente:
-pip install django
-
 
 
 4️⃣ Configurar o Banco de Dados
