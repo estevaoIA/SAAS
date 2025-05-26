@@ -9,11 +9,14 @@ Este projeto é uma aplicação web desenvolvida em Django para calcular custos 
 Antes de rodar o projeto, certifique-se de que o ambiente está configurado corretamente.
 🔹 Softwares e dependências necessárias
 - Python (versão 3.8 ou superior)
+  
 👉 Baixar Python
 - Django (última versão estável)
-📦 Instalar Django com:
+  
+- 📦 Instalar Django com:
 pip install django
 - Visual Studio Code (VS Code) (opcional, mas recomendado)
+  
 👉 Baixar VS Code
 - Extensões do VS Code recomendadas:
 - Python
@@ -21,6 +24,7 @@ pip install django
 - Pylance
 
 🏗 Passo a Passo - Instalação e Configuração
+
 1️⃣ Clonar o Repositório
 Caso o projeto esteja em um repositório Git, execute:
 git clone <URL_DO_REPOSITORIO>
